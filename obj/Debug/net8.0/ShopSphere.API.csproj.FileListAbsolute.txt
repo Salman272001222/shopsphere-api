@@ -141,6 +141,7 @@ C:\Users\Salman27\source\repos\ShopSphere.API\ShopSphere.API\obj\Debug\net8.0\Sh
 C:\Users\Salman27\source\repos\ShopSphere.API\ShopSphere.API\obj\Debug\net8.0\ShopSphere.API.csproj.CoreCompileInputs.cache
 C:\Users\Salman27\source\repos\ShopSphere.API\ShopSphere.API\obj\Debug\net8.0\ShopSphere.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Salman27\source\repos\ShopSphere.API\ShopSphere.API\obj\Debug\net8.0\ShopSphere.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Salman27\source\repos\ShopSphere.API\ShopSphere.API\obj\Debug\net8.0\ShopSphere.API.sourcelink.json
 C:\Users\Salman27\source\repos\ShopSphere.API\ShopSphere.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\Salman27\source\repos\ShopSphere.API\ShopSphere.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\Salman27\source\repos\ShopSphere.API\ShopSphere.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
